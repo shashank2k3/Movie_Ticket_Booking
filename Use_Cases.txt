@@ -1,0 +1,50 @@
+21 --- use cases
+========================
+1   main page
+-   user
+-   admin
+-   movie(search)
+--------------------------------------
+USER
+1  Login Page
+2  Register Page
+3  forgot password
+4  reset password
+5  user dashboard
+6  book ticket
+7  cancel ticket
+8  view booked ticket
+9  snacks
+-----------------------------------------
+ADMIN
+1  Admin Login Page
+2  Admin Register Page
+3  forgot Password
+4  reset password
+5  Admin Dashboard
+6  create movie
+7  edit movie
+8  delete movie
+9  view
+----------------------------------------
+1  Audience Details
+2  Payment Page
+==========================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
